@@ -15,13 +15,7 @@
     }
    #Description{
        font-style:italic;
-   }
-             #Grey{
-             float:left;
-             }
-             .moving{
-             float:right;
-             }
+}
     </style>
     </head>
     <body>
