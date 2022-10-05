@@ -20,8 +20,7 @@
     </head>
     <body>
      <h1 id="h1">Grey the Dragon</h1>
-     <a href="https://static.wikia.nocookie.net/squishmallowsquad/images/4/41/GreyTheDragon.jpg/revision/latest/scale-to-width-down/350?cb=20220605044028">
-     <img src="static.wikia.nocookie.net" alt="Grey" id="Grey">
+     <img src="https://i.ebayimg.com/images/g/Oc4AAOSwWTViIyQP/s-l500.jpg" alt="Grey" id="Grey">
      </a>
      <ul>
             <li><a href="#Bio" class="moving">Bio</a></li>
