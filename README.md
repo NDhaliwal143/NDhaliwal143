@@ -16,11 +16,17 @@
    #Description{
        font-style:italic;
    }
+             #Grey{
+             float:left;
+             }
+             .moving{
+             float:right;
+             }
     </style>
     </head>
     <body>
      <h1 id="h1">Grey the Dragon</h1>
-     <img src="https://i.ebayimg.com/images/g/Oc4AAOSwWTViIyQP/s-l500.jpg" alt="Grey" width="200">
+     <img src="https://i.ebayimg.com/images/g/Oc4AAOSwWTViIyQP/s-l500.jpg" alt="Grey" id="Grey"width="200">
      </a>
      <ul>
             <li><a href="#Bio" class="moving">Bio</a></li>
