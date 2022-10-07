@@ -32,7 +32,7 @@
         <h2 id="Description">Description</h2>
         <p>Grey is a blue dragon. He resembles as a teddy bear. He has glittery wings on the back and spikes on his head. Grey has a white muzzle and belly; he also has white toes on his feet.</p>
         <h2 id="Birthday">Birthday</h2>
-        <p>Unfortunately Grey doesn't have a birthday,so when you get it that will be his birthday.</p>
+        <p>Unfortunately Grey doesn't have a squishday,so when you get it that will be his squishday.</p>
         
     </body>
 </html>
