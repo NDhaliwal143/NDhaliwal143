@@ -21,7 +21,6 @@
     <body>
      <h1 id="h1">Grey the Dragon</h1>
      <img id="Grey" src="https://i.ebayimg.com/images/g/Oc4AAOSwWTViIyQP/s-l500.jpg" alt="Grey" width="200">
-     </a>
      <ul>
             <li><a href="#Bio" class="moving">Bio</a></li>
             <li><a href="#Description" class="moving">Description</a></li>
