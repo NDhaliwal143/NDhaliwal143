@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Arnel the Popcorn</title>
+        <meta charset="utf-8">
+         <style>
+    body{
+    background-color:rgb(255, 244, 145);
+    }
+    #h1{
+    color:rgb(255, 179, 0);
+    }
+    #Bio{
+        font-style:italic;
+        color:red;
+    }
+   #Description{
+       font-style:oblique;
+       color:white;
+   }
+   #Birthday{
+       color:red;
+   }
+   #Location{
+       color:white;
+   }
+    </style>
+    </head>
+    <body>
+     <h1 id="h1">Arnel the Popcorn</h1>
+     <img id="Arnel" src="https://static.wikia.nocookie.net/squishmallowsquad/images/8/86/Arnel.jpg/revision/latest?cb=20220415235841" alt="Arnel" width="200">
+     
+     <ul>
+            <li><a href="#Bio" class="moving">Bio</a></li>
+            <li><a href="#Description" class="moving">Description</a></li>
+            <li><a href="#Birthday" class="moving">Birthday</a></li>
+         <li><a href="#Location" class="moving">Location</a></li>
+        </ul>
+        <h2 id="Bio">Bio</h2>
+        <p>Arnel is a movie buff! You name it, he's probably seen it. He especially loves the deep cuts and black and white french films. Want to join? He'd love a movie buddy! But he's memorized all his favorite scenes by heart so don't be surprised if he talks through the whole thing.</p>
+        <h2 id="Description">Description</h2>
+        <p>Arnel is a popcorn. Also,Arnel has a red and white striped bag. He has black rounded eyes and a black mouth. He's tan-colored and fuzzy on top to represent popcorn.
+
+</p>
+        <h2 id="Birthday">Birthday</h2>
+        <p>Arnel's squishdate is November 8, 2021.So he will be 345 days old.</p>
+    <h2 id="Location">Location</h2>
+    <p>The location of Arnel is exlusive in Walgreens. You can find him at your locale Walgreens or people might want to sell it online.</p>
+        
+    </body>
+</html>
